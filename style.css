@@ -1,3 +1,9 @@
+body{
+    font-family: 'Gajraj One', cursive;
+font-family: 'Poppins', sans-serif;
+}
+
+
 h3{
     color:brown
 }
@@ -19,4 +25,24 @@ h6{
 
 #heading2{
     background-color: rgb(48, 218, 124);
+}
+
+.mydiv{
+    font-family: 'Gajraj One', cursive;
+    background-color: rgb(191, 255, 0);
+    padding: 7px;
+    margin: 5px;
+    text-align: center;
+    border: 11px solid black;
+    border-left: 12px;
+    border-right: 12px;    
+    border-radius: 100px;
+
+}
+
+.mydiv h2 {color:rgb(74, 70, 70);}
+
+.myimage{
+    width:1275px;
+    height: 700px;
 }
